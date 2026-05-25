@@ -1,5 +1,5 @@
 ## Get-ServerNetworkHealth
-
+*This script is for a lab environment and meant for learning purposes only*
 
 ## What does it do
 Runs a quick network health check across multiple servers simultaneously. For each server it checks:
